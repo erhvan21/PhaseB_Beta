@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-F_Cu.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-B_Cu.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-F_Paste.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-B_Paste.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-F_Mask.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-B_Mask.gbr'.
+Plotted to 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Tanco\Documents\KiCad\Projects\PhaseB\Phase_B_Proto\gerber\Phase_B_Proto-job.gbrjob'.
+Info: Done.
