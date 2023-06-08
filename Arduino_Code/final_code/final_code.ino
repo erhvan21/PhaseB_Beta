@@ -73,3 +73,4 @@ void resetTimer() {
   isCounting = false;
   isStopped = false;
   digitalWrite(START_STOP_PIN, LOW);
+}
